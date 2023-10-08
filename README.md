@@ -1,4 +1,4 @@
-# Credit-card-checker
+# Credit-card-validator
 
 This JavaScript application is designed to help you validate credit card numbers and identify the companies behind invalid cards.
 
