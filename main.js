@@ -109,4 +109,3 @@ console.log(idInvalidCardCompanies([invalid1]));
 console.log(idInvalidCardCompanies([invalid2]));
 console.log(idInvalidCardCompanies(batch));
 
-
